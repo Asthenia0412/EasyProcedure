@@ -1,7 +1,7 @@
 # EasyProcedure 项目说明文档
 ## 更新记录
-V1.0：主体实现
-V1.1：从Processor-Tool更名为EasyProcedure
+- V1.0：主体实现
+- V1.1：从Processor-Tool更名为EasyProcedure
 ## 项目概述
 
 EasyProcedure 是一个基于 Spring Boot 的通用业务处理框架，旨在通过 AOP（面向切面编程）和回调机制简化业务流程的开发。它提供了一个灵活的处理流程，包括校验、预处理、核心逻辑执行、后处理和异常处理等阶段，适用于订单处理、任务调度等场景。
